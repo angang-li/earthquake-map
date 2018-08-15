@@ -1,5 +1,7 @@
 # Visualizing Earthquake Data with Leaflet
 
+Checkout the visualization [here](https://angang-li.github.io/earthquake-map/)!
+
 ## Data
 
 - United States Geological Survey (USGS) earthquake data from [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php), 'All Earthquakes from the Past 7 Days'
